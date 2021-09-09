@@ -1,9 +1,8 @@
 {
-  "name": "code-oss-dev",
-  "version": "1.57.1",
-  "distro": "90b97e4e10fb8a1ab3cd4846f4dc56bfea8ea620",
+  "name": "@flowtr/vscode-web",
+  "version": "1.0.0",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Theo Paris"
   },
   "license": "MIT",
   "main": "./out/main",
