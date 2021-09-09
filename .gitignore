@@ -1,0 +1,19 @@
+.env
+*.log*
+.DS_Store
+.cache
+Thumbs.db
+node_modules/
+.build/
+extensions/**/dist/
+/out*/
+/extensions/**/out/
+# NOTE@coder: remove to provide our own server
+# src/vs/server
+resources/server
+build/node_modules
+coverage/
+test_data/
+test-results/
+vscode.lsif
+vscode.db
